@@ -13,7 +13,8 @@ app.use(express.json());
 
 // Routes for different combinations
 app.get("/shooting-results/open-sight/urban/male/u14", (req, res) => {
-  readAndSendData("Urban-OpenSight-Male-U14.json", res);
+  // readAndSendData("Urban-OpenSight-Male-U14.json", res);
+  readAndSendData("data.json", res);
 });
 
 app.get("/shooting-results/open-sight/urban/male/u17", (req, res) => {
