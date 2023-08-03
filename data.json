@@ -8,7 +8,11 @@
         "Penalty": -0.00,
         "Total": 372.00,
         "Rank": "I",
-        "Rem": "C"
+        "Rem": "C",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u17"
     },
     {
         "SrNo": 2,
@@ -19,7 +23,11 @@
         "Penalty": -0.00,
         "Total": 370.00,
         "Rank": "II",
-        "Rem": "C"
+        "Rem": "C",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u14"
     },
     {
         "SrNo": 3,
@@ -30,7 +38,11 @@
         "Penalty": -0.00,
         "Total": 368.00,
         "Rank": "III",
-        "Rem": "C"
+        "Rem": "C",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u17"
     },
     {
         "SrNo": 4,
@@ -41,7 +53,11 @@
         "Penalty": -0.00,
         "Total": 367.00,
         "Rank": "IV",
-        "Rem": "C"
+        "Rem": "C",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u14"
     },
     {
         "SrNo": 5,
@@ -52,7 +68,11 @@
         "Penalty": -0.00,
         "Total": 367.00,
         "Rank": "V",
-        "Rem": "C"
+        "Rem": "C",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u14"
     },
     {
         "SrNo": 6,
@@ -63,7 +83,11 @@
         "Penalty": -0.00,
         "Total": 364.00,
         "Rank": "VI",
-        "Rem": "C"
+        "Rem": "C",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u14"
     },
     {
         "SrNo": 7,
@@ -74,18 +98,26 @@
         "Penalty": -0.00,
         "Total": 364.00,
         "Rank": "VII",
-        "Rem": "C"
+        "Rem": "C",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u14"
     },
     {
         "SrNo": 8,
         "CompNo": 595,
         "ShooterName": "YOGESH JAMDADE (MHPM1807198701TH)",
         "School": "THANE",
-        "Series": [95.00, 88.00, 94.00, 87.00],
+        "Series": [95.00, 89.00, 94.00, 87.00],
         "Penalty": -0.00,
         "Total": 364.00,
         "Rank": "VIII",
-        "Rem": "C"
+        "Rem": "C",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u14"
     },
     {
         "SrNo": 9,
@@ -96,7 +128,11 @@
         "Penalty": -0.00,
         "Total": 363.00,
         "Rank": "IX",
-        "Rem": "C"
+        "Rem": "C",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u14"
     },
     {
         "SrNo": 10,
@@ -107,6 +143,10 @@
         "Penalty": -0.00,
         "Total": 362.00,
         "Rank": "X",
-        "Rem": "C"
+        "Rem": "C",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u14"
     }
 ]
