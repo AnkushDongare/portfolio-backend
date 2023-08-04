@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const dotenv = require("dotenv"); // Require the dotenv package
+const dotenv = require("dotenv"); //Require the dotenv package
 const fs = require("fs");
 const path = require("path"); // Add the missing import for the path module
 const app = express();
