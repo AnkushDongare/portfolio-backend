@@ -741,22 +741,342 @@
     },
     {
         "SrNo": 38,
-        "CompNo": "D7-4",
-        "ShooterName": "Tushant Jagdish Meshram",
-        "School": "Jubilee English School",
+        "CompNo": "D8-1",
+        "ShooterName": "Shubhankar Dnyaneshwar Khadatkar",
+        "School": "DPS",
         "Series": [
-            50,
-            28,
-            45,
-            30
+            55,
+            56,
+            56,
+            56
         ],
         "Penalty": 0,
-        "Total": 153,
+        "Total": 223,
         "Rank": "",
         "Rem": "",
         "Event": "open-sight",
         "Region": "urban",
         "Gender": "male",
+        "Age": "u19"
+    },
+    {
+        "SrNo": 39,
+        "CompNo": "D8-2",
+        "ShooterName": "Sahil Sandeep Kamble",
+        "School": "Poddar International School",
+        "Series": [
+            87,
+            91,
+            88,
+            84
+        ],
+        "Penalty": 0,
+        "Total": 350,
+        "Rank": "",
+        "Rem": "",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u19"
+    },
+    {
+        "SrNo": 40,
+        "CompNo": "D9-1",
+        "ShooterName": "Arya Amar Bhopi",
+        "School": "Freedom English School, Akot",
+        "Series": [
+            68,
+            64,
+            61,
+            67
+        ],
+        "Penalty": 0,
+        "Total": 260,
+        "Rank": "",
+        "Rem": "",
+        "Event": "open-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u14"
+    },
+    {
+        "SrNo": 41,
+        "CompNo": "D9-2",
+        "ShooterName": "Siya Vinay Thosare",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            28,
+            32,
+            25,
+            23
+        ],
+        "Penalty": 0,
+        "Total": 108,
+        "Rank": "",
+        "Rem": "",
+        "Event": "open-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u14"
+    },
+    {
+        "SrNo": 42,
+        "CompNo": "D10-1",
+        "ShooterName": "Oviya Dharmendra Kumar",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            37,
+            33,
+            32,
+            34
+        ],
+        "Penalty": 0,
+        "Total": 136,
+        "Rank": "",
+        "Rem": "",
+        "Event": "open-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u14"
+    },
+    {
+        "SrNo": 43,
+        "CompNo": "D11-1",
+        "ShooterName": "Aanya Shreevallabh Kankale",
+        "School": "Lal Bahadur Shashtri Dnyanpith & Jr College",
+        "Series": [
+            56,
+            48,
+            49,
+            49
+        ],
+        "Penalty": 0,
+        "Total": 202,
+        "Rank": "",
+        "Rem": "",
+        "Event": "open-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u17"
+    },
+    {
+        "SrNo": 44,
+        "CompNo": "D12-1",
+        "ShooterName": "Pranjal Abhijit Patil",
+        "School": "Poddar International School",
+        "Series": [
+            92,
+            89,
+            87,
+            86
+        ],
+        "Penalty": 0,
+        "Total": 354,
+        "Rank": "",
+        "Rem": "",
+        "Event": "peep-sight",
+        "Region": "urban",
+        "Gender": "male",
+        "Age": "u17"
+    },
+    {
+        "SrNo": 45,
+        "CompNo": "D13-1",
+        "ShooterName": "Prerana Yash Thakare",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            30,
+            23,
+            23,
+            24
+        ],
+        "Penalty": 0,
+        "Total": 100,
+        "Rank": "",
+        "Rem": "",
+        "Event": "open-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u17"
+    },
+    {
+        "SrNo": 46,
+        "CompNo": "D14-1",
+        "ShooterName": "Anoushka Aryan Gupta",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            55,
+            59,
+            56,
+            57
+        ],
+        "Penalty": 0,
+        "Total": 227,
+        "Rank": "",
+        "Rem": "",
+        "Event": "peep-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u14"
+    },
+    {
+        "SrNo": 47,
+        "CompNo": "D15-1",
+        "ShooterName": "Ananya Abhishek Lanjewar",
+        "School": "DPS",
+        "Series": [
+            52,
+            48,
+            50,
+            48
+        ],
+        "Penalty": 0,
+        "Total": 198,
+        "Rank": "",
+        "Rem": "",
+        "Event": "open-sight",
+        "Region": "urban",
+        "Gender": "female",
+        "Age": "u19"
+    },
+    {
+        "SrNo": 48,
+        "CompNo": "D15-2",
+        "ShooterName": "Aahana Anil Gajbe",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            27,
+            24,
+            23,
+            27
+        ],
+        "Penalty": 0,
+        "Total": 101,
+        "Rank": "",
+        "Rem": "",
+        "Event": "open-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u19"
+    },
+    {
+        "SrNo": 49,
+        "CompNo": "D16-1",
+        "ShooterName": "Aditi Shivraj Bhopi",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            32,
+            34,
+            32,
+            35
+        ],
+        "Penalty": 0,
+        "Total": 133,
+        "Rank": "",
+        "Rem": "",
+        "Event": "open-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u14"
+    },
+    {
+        "SrNo": 50,
+        "CompNo": "D17-1",
+        "ShooterName": "Sakshi Sachin Khadatkar",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            34,
+            24,
+            29,
+            30
+        ],
+        "Penalty": 0,
+        "Total": 117,
+        "Rank": "",
+        "Rem": "",
+        "Event": "open-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u17"
+    },
+    {
+        "SrNo": 51,
+        "CompNo": "D18-1",
+        "ShooterName": "Kashvi Gaurav Gomashe",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            35,
+            39,
+            37,
+            38
+        ],
+        "Penalty": 0,
+        "Total": 149,
+        "Rank": "",
+        "Rem": "",
+        "Event": "peep-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u14"
+    },
+    {
+        "SrNo": 52,
+        "CompNo": "D18-2",
+        "ShooterName": "Harshada Sunil Diwane",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            33,
+            32,
+            29,
+            35
+        ],
+        "Penalty": 0,
+        "Total": 129,
+        "Rank": "",
+        "Rem": "",
+        "Event": "peep-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u14"
+    },
+    {
+        "SrNo": 53,
+        "CompNo": "D19-1",
+        "ShooterName": "Anisha Balu Gomashe",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            31,
+            25,
+            27,
+            27
+        ],
+        "Penalty": 0,
+        "Total": 110,
+        "Rank": "",
+        "Rem": "",
+        "Event": "peep-sight",
+        "Region": "rural",
+        "Gender": "female",
+        "Age": "u17"
+    },
+    {
+        "SrNo": 54,
+        "CompNo": "D20-1",
+        "ShooterName": "Khushi Dinesh Chahande",
+        "School": "National Military School, Gaigaon",
+        "Series": [
+            31,
+            27,
+            28,
+            30
+        ],
+        "Penalty": 0,
+        "Total": 116,
+        "Rank": "",
+        "Rem": "",
+        "Event": "peep-sight",
+        "Region": "rural",
+        "Gender": "female",
         "Age": "u14"
     }
 ]
