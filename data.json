@@ -11,9 +11,9 @@
     "Penalty": 0,
     "Total": 147,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 53,
@@ -27,9 +27,9 @@
     "Penalty": 0,
     "Total": 145,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 27,
@@ -43,9 +43,9 @@
     "Penalty": 0,
     "Total": 176,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 28,
@@ -59,9 +59,9 @@
     "Penalty": 0,
     "Total": 135,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 45,
@@ -75,9 +75,9 @@
     "Penalty": 0,
     "Total": 180,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 14,
@@ -91,9 +91,9 @@
     "Penalty": 0,
     "Total": 100,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 45,
@@ -107,9 +107,9 @@
     "Penalty": 0,
     "Total": 171,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 20,
@@ -123,9 +123,9 @@
     "Penalty": 0,
     "Total": 112,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 34,
@@ -139,9 +139,9 @@
     "Penalty": 0,
     "Total": 134,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 52,
@@ -155,9 +155,9 @@
     "Penalty": 0,
     "Total": 210,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 63,
@@ -171,9 +171,9 @@
     "Penalty": 0,
     "Total": 258,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 92,
@@ -187,9 +187,9 @@
     "Penalty": 0,
     "Total": 371,
     "Event": "peep-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 24,
@@ -203,9 +203,9 @@
     "Penalty": 0,
     "Total": 135,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 48,
@@ -219,9 +219,9 @@
     "Penalty": 0,
     "Total": 205,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 93,
@@ -235,9 +235,9 @@
     "Penalty": 0,
     "Total": 353,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 29,
@@ -251,9 +251,9 @@
     "Penalty": 0,
     "Total": 49,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 24,
@@ -267,9 +267,9 @@
     "Penalty": 0,
     "Total": 108,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 19,
@@ -283,9 +283,9 @@
     "Penalty": 0,
     "Total": 120,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 34,
@@ -299,9 +299,9 @@
     "Penalty": 0,
     "Total": 152,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 9,
@@ -311,13 +311,13 @@
     "SrNo": 20,
     "CompNo": "D4-2",
     "ShooterName": "Dipak Ravindra Shinde",
-    "School": "National Militri School, Gaigaon",
+    "School": "National Military School, Gaigaon",
     "Penalty": 0,
     "Total": 26,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 8,
@@ -327,13 +327,13 @@
     "SrNo": 21,
     "CompNo": "D4-3",
     "ShooterName": "Varad Chetan Agrawal",
-    "School": "National Militri School, Gaigaon",
+    "School": "National Military School, Gaigaon",
     "Penalty": 0,
     "Total": 22,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 0,
@@ -347,9 +347,9 @@
     "Penalty": 0,
     "Total": 31,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 47,
@@ -363,9 +363,9 @@
     "Penalty": 0,
     "Total": 108,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 75,
@@ -379,9 +379,9 @@
     "Penalty": 0,
     "Total": 312,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 21,
@@ -391,13 +391,13 @@
     "SrNo": 25,
     "CompNo": "D5-1",
     "ShooterName": "Ajay Vijay Patode",
-    "School": "National Militri School, Gaigaon",
+    "School": "National Military School, Gaigaon",
     "Penalty": 0,
     "Total": 142,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 5,
@@ -407,13 +407,13 @@
     "SrNo": 26,
     "CompNo": "D5-2",
     "ShooterName": "Jay Tukaram Ghatate",
-    "School": "National Militri School, Gaigaon",
+    "School": "National Military School, Gaigaon",
     "Penalty": 0,
     "Total": 45,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 54,
@@ -423,13 +423,13 @@
     "SrNo": 27,
     "CompNo": "D5-3",
     "ShooterName": "Rupam Sanjay Dod",
-    "School": "National Militri School, Gaigaon",
+    "School": "National Military School, Gaigaon",
     "Penalty": 0,
     "Total": 139,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 35,
@@ -439,13 +439,13 @@
     "SrNo": 28,
     "CompNo": "D5-4",
     "ShooterName": "Sahil Dhammapal Thosare",
-    "School": "National Militri School, Gaigaon",
+    "School": "National Military School, Gaigaon",
     "Penalty": 0,
     "Total": 136,
     "Event": "open-sight",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 75,
@@ -459,9 +459,9 @@
     "Penalty": 0,
     "Total": 319,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 90,
@@ -475,9 +475,9 @@
     "Penalty": 0,
     "Total": 358,
     "Event": "pistol",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 87,
@@ -491,9 +491,9 @@
     "Penalty": 0,
     "Total": 339,
     "Event": "pistol",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 44,
@@ -507,9 +507,9 @@
     "Penalty": 0,
     "Total": 166,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 13,
@@ -523,9 +523,9 @@
     "Penalty": 0,
     "Total": 81,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 4,
@@ -539,9 +539,9 @@
     "Penalty": 0,
     "Total": 75,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 65,
@@ -555,9 +555,9 @@
     "Penalty": 0,
     "Total": 253,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 17,
@@ -571,9 +571,9 @@
     "Penalty": 0,
     "Total": 66,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 21,
@@ -587,9 +587,9 @@
     "Penalty": 0,
     "Total": 72,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 50,
@@ -603,9 +603,9 @@
     "Penalty": 0,
     "Total": 153,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 86,
@@ -619,9 +619,9 @@
     "Penalty": 0,
     "Total": 360,
     "Event": "pistol",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 61,
@@ -635,9 +635,9 @@
     "Penalty": 0,
     "Total": 246,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 70,
@@ -651,9 +651,9 @@
     "Penalty": 0,
     "Total": 300,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 72,
@@ -667,9 +667,9 @@
     "Penalty": 0,
     "Total": 272,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 80,
@@ -683,9 +683,9 @@
     "Penalty": 0,
     "Total": 316,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 25,
@@ -699,9 +699,9 @@
     "Penalty": 0,
     "Total": 77,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 87,
@@ -715,9 +715,9 @@
     "Penalty": 0,
     "Total": 337,
     "Event": "pistol",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 38,
@@ -731,9 +731,9 @@
     "Penalty": 0,
     "Total": 130,
     "Event": "pistol",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "male",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 97,
@@ -747,9 +747,9 @@
     "Penalty": 0,
     "Total": 391,
     "Event": "peep-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 70,
@@ -763,9 +763,9 @@
     "Penalty": 0,
     "Total": 235,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 66,
@@ -779,9 +779,9 @@
     "Penalty": 0,
     "Total": 260,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 20,
@@ -795,9 +795,9 @@
     "Penalty": 0,
     "Total": 55,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 43,
@@ -811,9 +811,9 @@
     "Penalty": 0,
     "Total": 110,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 72,
@@ -827,9 +827,9 @@
     "Penalty": 0,
     "Total": 270,
     "Event": "pistol",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 48,
@@ -843,9 +843,9 @@
     "Penalty": 0,
     "Total": 264,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 50,
@@ -859,9 +859,9 @@
     "Penalty": 0,
     "Total": 199,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 63,
@@ -875,9 +875,9 @@
     "Penalty": 0,
     "Total": 263,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 29,
@@ -891,9 +891,9 @@
     "Penalty": 0,
     "Total": 200,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 86,
@@ -907,9 +907,9 @@
     "Penalty": 0,
     "Total": 354,
     "Event": "peep-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u17"
+    "Age": "u17"
   },
   {
     "Series1": 45,
@@ -923,9 +923,9 @@
     "Penalty": 0,
     "Total": 133,
     "Event": "pistol",
-    "region": "rural",
+    "Region": "rural",
     "Gender": "female",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 84,
@@ -939,9 +939,9 @@
     "Penalty": 0,
     "Total": 354,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 87,
@@ -955,9 +955,9 @@
     "Penalty": 0,
     "Total": 337,
     "Event": "open-sight",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u19"
+    "Age": "u19"
   },
   {
     "Series1": 85,
@@ -971,9 +971,9 @@
     "Penalty": 0,
     "Total": 331,
     "Event": "pistol",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u14"
+    "Age": "u14"
   },
   {
     "Series1": 75,
@@ -987,8 +987,88 @@
     "Penalty": 0,
     "Total": 298,
     "Event": "pistol",
-    "region": "urban",
+    "Region": "urban",
     "Gender": "female",
-    "Age group": "u19"
+    "Age": "u19"
+  },
+  {
+    "SrNo": 63,
+    "CompNo": "abs",
+    "ShooterName": "Nirvani Nirmal Narwade",
+    "School": "Holy Cross Convent High School",
+    "Event": "open-sight",
+    "Region": "urban",
+    "Gender": "female",
+    "Age": "u14"
+  },
+  {
+    "SrNo": 64,
+    "CompNo": "abs",
+    "ShooterName": "Dakshan Rajesh Banole",
+    "School": "Holy Cross Convent High School",
+    "Event": "open-sight",
+    "Region": "urban",
+    "Gender": "male",
+    "Age": "u17"
+  },
+  {
+    "SrNo": 65,
+    "CompNo": "abs",
+    "ShooterName": "Parth Sumit Kedia",
+    "School": "Maunt Carmel High School",
+    "Event": "open-sight",
+    "Region": "urban",
+    "Gender": "male",
+    "Age": "u17"
+  },
+  {
+    "SrNo": 66,
+    "CompNo": "abs",
+    "ShooterName": "Arthav Sachin Lande",
+    "School": "Holy Cross Convent High School",
+    "Event": "open-sight",
+    "Region": "urban",
+    "Gender": "male",
+    "Age": "u17"
+  },
+  {
+    "SrNo": 67,
+    "CompNo": "abs",
+    "ShooterName": "Devant Devendra Wakchavare",
+    "School": "Bal Shivaji Madhyamik School",
+    "Event": "open-sight",
+    "Region": "urban",
+    "Gender": "male",
+    "Age": "u17"
+  },
+  {
+    "SrNo": 68,
+    "CompNo": "abs",
+    "ShooterName": "Gargi Suraj Bhange",
+    "School": "Prabhat Kids School",
+    "Event": "open-sight",
+    "Region": "urban",
+    "Gender": "female",
+    "Age": "u14"
+  },
+  {
+    "SrNo": 69,
+    "CompNo": "abs",
+    "ShooterName": "Gargi Dhananjay Bhagat",
+    "School": "Holy Cross Convent High School",
+    "Event": "open-sight",
+    "Region": "urban",
+    "Gender": "female",
+    "Age": "u14"
+  },
+  {
+    "SrNo": 70,
+    "CompNo": "abs",
+    "ShooterName": "Tanishka Upshant Ingale",
+    "School": "Holy Cross Convent High School",
+    "Event": "open-sight",
+    "Region": "urban",
+    "Gender": "female",
+    "Age": "u17"
   }
 ]
